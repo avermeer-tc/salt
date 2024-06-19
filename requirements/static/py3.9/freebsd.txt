@@ -28,7 +28,7 @@ ciscoconfparse==1.5.19    # via napalm
 colorama==0.4.3           # via ciscoconfparse
 contextlib2==0.5.5        # via cherrypy
 croniter==0.3.29
-cryptography==2.6.1       # via moto, paramiko, pyopenssl, vcert
+cryptography==42.0.4       # via moto, paramiko, pyopenssl, vcert
 distlib==0.3.0            # via virtualenv
 distro==1.5.0
 dnspython==1.16.0
