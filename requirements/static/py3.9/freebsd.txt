@@ -128,7 +128,7 @@ virtualenv==20.0.20
 watchdog==0.9.0
 wcwidth==0.1.7            # via pytest
 websocket-client==0.40.0  # via docker, kubernetes
-werkzeug==0.15.6          # via moto
+werkzeug==3.0.3          # via moto
 wrapt==1.11.1             # via aws-xray-sdk
 xmltodict==0.12.0         # via moto
 yamlordereddictloader==0.4.0  # via junos-eznc
