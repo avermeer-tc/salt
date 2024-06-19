@@ -113,7 +113,7 @@ click==7.1.1              # via geomet
 colorama==0.4.3           # via ciscoconfparse
 contextlib2==0.5.5        # via cherrypy
 croniter==0.3.29
-cryptography==2.6.1       # via adal, azure-cosmosdb-table, azure-keyvault, azure-storage-common, moto, paramiko, pyopenssl, vcert
+cryptography==42.0.4       # via adal, azure-cosmosdb-table, azure-keyvault, azure-storage-common, moto, paramiko, pyopenssl, vcert
 distlib==0.3.0            # via virtualenv
 distro==1.5.0
 dnspython==1.16.0
