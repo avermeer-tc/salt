@@ -43,7 +43,7 @@ future==0.17.1            # via napalm, python-jose, textfsm
 genshi==0.7.3
 geomet==0.1.2             # via cassandra-driver
 gitdb2==2.0.5             # via gitpython
-gitpython==2.1.15
+gitpython==3.1.41
 google-auth==1.6.3        # via kubernetes
 idna==2.8
 ipaddress==1.0.22
