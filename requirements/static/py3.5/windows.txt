@@ -120,4 +120,4 @@ wmi==1.4.9
 wrapt==1.11.1             # via aws-xray-sdk
 xmltodict==0.12.0         # via moto
 zc.lockfile==1.4          # via cherrypy
-zipp==0.6.0               # via importlib-metadata, importlib-resources
+zipp==3.19.1               # via importlib-metadata, importlib-resources
